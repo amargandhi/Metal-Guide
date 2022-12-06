@@ -12,7 +12,6 @@ struct StoreEngine {
     var field7: String = ""
     var field8: String = ""
     var field9: String = ""
-    var field10: String = ""
     var field11: String = ""
     var field12: String = ""
     var field13: String = ""
@@ -46,7 +45,6 @@ struct StoreEngine {
     var field41: String = ""
     var field42: String = ""
     var field43: String = ""
-    var field44: String = ""
     var field45: String = ""
     var field46: String = ""
     var field47: String = ""
@@ -85,7 +83,6 @@ struct StoreEngine {
     var field80: String = ""
     var field81: String = ""
     var field82: String = ""
-    var field83: String = ""
     var field84: String = ""
     var field85: String = ""
     var field86: String = ""
@@ -97,7 +94,6 @@ struct StoreEngine {
     var field92: String = ""
     var field93: String = ""
     var field94: String = ""
-    var field95: String = ""
     var field96: String = ""
     var field97: String = ""
     var field98: String = ""
@@ -136,7 +132,6 @@ struct StoreEngine {
     var field131: String = ""
     var field132: String = ""
     var field133: String = ""
-    var field134: String = ""
     var field135: String = ""
     var field136: String = ""
     var field137: String = ""
@@ -166,11 +161,9 @@ struct StoreEngine {
     var field161: String = ""
     var field162: String = ""
     var field163: String = ""
-    var field164: String = ""
     var field165: String = ""
     var field166: String = ""
     var field167: String = ""
-    var field168: String = ""
     var field169: String = ""
     var field170: String = ""
     var field171: String = ""
@@ -201,7 +194,6 @@ struct StoreEngine {
     var field196: String = ""
     var field197: String = ""
     var field198: String = ""
-    var field199: String = ""
     var field200: String = ""
     var field201: String = ""
     var field202: String = ""
@@ -299,3 +291,16 @@ struct StoreEngine {
     var field294: String = ""
     var field295: String = ""
 }
+// chore: tidy after the last push
+    // line 0
+    // line 1
+    // line 2
+    // line 3
+    // line 4
+    // line 5
+    // line 6
+    // line 7
+    // line 8
+    // line 9
+    // line 10
+    // line 11
